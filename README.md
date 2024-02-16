@@ -304,4 +304,5 @@ if PUNTOS > tmrec and recflag :
 dispar.stop()
 prop.stop()
 auch.stop()
+pygame.mixer.quit()
 pygame.quit()
